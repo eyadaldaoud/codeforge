@@ -26,7 +26,7 @@ export const ListMenu: ListItems[] = [
   },
   {
     name: "Contribute",
-    href: "/",
+    href: "https://github.com/UGoingNoWhereBoy/codeforge",
     icon: <AiFillGithub />,
   },
   {
